@@ -32,6 +32,9 @@ Prerequisites: Python 3.10.4
 # clone repository
 git clone https://github.com/RangelMoreira/pomodoro.git
 
+# Access directory
+cd pomodoro
+
 #Create virtual environment
 python -m venv venv
 
