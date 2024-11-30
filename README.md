@@ -43,9 +43,6 @@ source venv/bin/activate
 ## Windows
 venv\Scripts\activate
 
-# install dependencies
-pip install -r requirements.txt
-
 # run the project
 python main.py
 ```
