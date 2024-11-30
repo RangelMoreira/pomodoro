@@ -22,7 +22,7 @@ Pomodoro is a Python application that automates the Pomodoro technique. Develope
 
 # Technologies
 
-- Pyhton 
+- Python 
 
 # How to run the project
 
